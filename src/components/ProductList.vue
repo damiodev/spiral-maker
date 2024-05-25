@@ -64,7 +64,7 @@ export default {
                 type: 'alert-success',
                 visible: true
             };
-            notifications.value.unshift(newNotification); // Ajouter la nouvelle notification au début de la pile
+            notifications.value.unshift(newNotification);
 
             // Marquer la notification comme invisible après 3 secondes
             setTimeout(() => {
@@ -79,14 +79,12 @@ export default {
         };
 
         const removeNotification = (index) => {
-            notifications.value[index].visible = false; // Marquer la notification comme non visible
+            notifications.value[index].visible = false;
         };
-
 
         const refreshNotifications = () => {
             notifications.value = notifications.value.filter(notification => notification.visible);
         };
-
 
         // Rafraîchir les notifications toutes les 1000 ms (1 seconde)
         setInterval(refreshNotifications, 1000);

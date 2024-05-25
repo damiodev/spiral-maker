@@ -60,7 +60,7 @@
 <script>
 import { useCartStore } from '../store/cart';
 import { computed, ref } from 'vue';
-import ModalDetailProduct from './ModalDetailProduct.vue';  // Assurez-vous que le chemin est correct
+import ModalDetailProduct from './ModalDetailProduct.vue';
 
 export default {
     components: {

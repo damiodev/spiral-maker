@@ -24,7 +24,7 @@
         </div>
     </div>
     <div v-else>
-        <!-- Optionally, you can add a placeholder or a message when no product is selected -->
+        
     </div>
 </template>
 

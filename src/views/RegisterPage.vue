@@ -53,5 +53,4 @@ export default {
     flex-direction: column;
 }
 
-/* Ajoutez vos styles CSS supplémentaires ici */
 </style>

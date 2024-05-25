@@ -11,6 +11,6 @@
 
 <script>
 export default {
-    // Votre logique de composant
+    
 };
 </script>

@@ -271,12 +271,10 @@ export default {
   text-decoration: none;
 }
 
-/* Ajoutez ce style pour changer la couleur de l'icône en bleu clair au survol */
 .nav-link svg path:hover {
   fill: lightblue;
 }
 
-/* Ajoutez ce style pour changer la couleur de l'icône en bleu lorsque vous êtes sur la page correspondante */
 .nav-link.router-link-active svg path {
   fill: #007bff;
 }
