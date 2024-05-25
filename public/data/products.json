@@ -1,0 +1,283 @@
+[
+    {
+      "id": 1,
+      "name": "Imprimante 3D Creality Ender 3",
+      "brand": "Creality",
+      "price": 220.99,
+      "reference": "CR-ENDER3",
+      "category": "Imprimante 3D",
+      "discount": 10,
+      "images": [
+        "https://img.staticdj.com/78b4b1a181b236e46e401c5efe4df976.jpg",
+        "https://example.com/images/creality_ender3_2.jpg",
+        "https://example.com/images/creality_ender3_3.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Imprimante Résine Anycubic Photon",
+      "brand": "Anycubic",
+      "price": 189.99,
+      "reference": "ANY-PHOTON",
+      "category": "Imprimante Résine",
+      "discount": 15,
+      "images": [
+        "https://filament2print.com/6582-tm_large_default/anycubic-photon-mono-x-imprimante-3d-lcd.jpg",
+        "https://example.com/images/anycubic_photon_2.jpg",
+        "https://example.com/images/anycubic_photon_3.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Stylo 3D MYNT3D Pro",
+      "brand": "MYNT3D",
+      "price": 49.99,
+      "reference": "MYNT3D-PRO",
+      "category": "Stylo 3D",
+      "discount": 5,
+      "images": [
+        "https://www.mynt3d.com/cdn/shop/products/IMG_3048_1600x.JPG?v=1497479774",
+        "https://example.com/images/mynt3d_pro_2.jpg",
+        "https://example.com/images/mynt3d_pro_3.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Filament PLA 1kg Rouge",
+      "brand": "Hatchbox",
+      "price": 25.99,
+      "reference": "HATCHBOX-PLA-RED",
+      "category": "Filament 3D",
+      "discount": 0,
+      "images": [
+        "https://esun3d.fr/cdn/shop/products/eSilk-PLARed.jpg?v=1671551545&width=1445",
+        "https://example.com/images/hatchbox_pla_red_2.jpg",
+        "https://example.com/images/hatchbox_pla_red_3.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Résine UV 1L Gris",
+      "brand": "Elegoo",
+      "price": 35.99,
+      "reference": "ELEGOO-RES-GREY",
+      "category": "Bouteille de Résine",
+      "discount": 20,
+      "images": [
+        "https://m.media-amazon.com/images/I/61FH2T1X7-L.jpg",
+        "https://example.com/images/elegoo_resin_grey_2.jpg",
+        "https://example.com/images/elegoo_resin_grey_3.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Plateau de Chauffe MK3",
+      "brand": "Prusa",
+      "price": 89.99,
+      "reference": "PRUSA-MK3-PLATE",
+      "category": "Pièces Détachées",
+      "discount": 10,
+      "images": [
+        "https://imprimante-3d-service.com/766-large_default/plateau-pcb-chauffant-magnetique-pour-imprimante-3d-prusa.jpg",
+        "https://example.com/images/prusa_mk3_plate_2.jpg",
+        "https://example.com/images/prusa_mk3_plate_3.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Nettoyant Nozzle XYZ",
+      "brand": "XYZprinting",
+      "price": 12.99,
+      "reference": "XYZ-NOZZLE-CLEANER",
+      "category": "Produits d'Entretien",
+      "discount": 5,
+      "images": [
+        "https://ae01.alicdn.com/kf/Sd78e601a0cfd48b2aa1eda5fdd8e4ce41.jpg_640x640Q90.jpg_.webp",
+        "https://example.com/images/xyz_nozzle_cleaner_2.jpg",
+        "https://example.com/images/xyz_nozzle_cleaner_3.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Pinces de Précision",
+      "brand": "Dremel",
+      "price": 15.99,
+      "reference": "DREMEL-PINCES",
+      "category": "Accessoires pour Imprimantes 3D",
+      "discount": 0,
+      "images": [
+        "https://www.cig-eco.fr/2559-mt_medium/pince-coupante-de-precision.jpg",
+        "https://example.com/images/dremel_pinces_2.jpg",
+        "https://example.com/images/dremel_pinces_3.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Imprimante 3D Artillery Sidewinder X1",
+      "brand": "Artillery",
+      "price": 299.99,
+      "reference": "ART-SW-X1",
+      "category": "Imprimante 3D",
+      "discount": 25,
+      "images": [
+        "https://www.lesimprimantes3d.fr/wp-content/uploads/2019/03/review-Alfawise-Artillery-X1-06.jpg",
+        "https://example.com/images/artillery_sw_x1_2.jpg",
+        "https://example.com/images/artillery_sw_x1_3.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Imprimante Résine Phrozen Sonic Mini",
+      "brand": "Phrozen",
+      "price": 199.99,
+      "reference": "PHROZEN-SONIC-MINI",
+      "category": "Imprimante Résine",
+      "discount": 10,
+      "images": [
+        "https://ae01.alicdn.com/kf/S09fd656d865041ba920f8ba3412367f45/Phrozen-Sonic-Mini-Imprimante-Dentaire-en-R-sine-8K-Machine-d-Impression-3D-165x72x180mm.png",
+        "https://example.com/images/phrozen_sonic_mini_2.jpg",
+        "https://example.com/images/phrozen_sonic_mini_3.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Stylo 3D Wacom Intuos",
+      "brand": "Wacom",
+      "price": 69.99,
+      "reference": "WACOM-INTUOS",
+      "category": "Stylo 3D",
+      "discount": 5,
+      "images": [
+        "https://ae01.alicdn.com/kf/S950898fe60f749238074262ce2f5f07cs/Wacom-Pro-Pen-3D-pour-Intuos-Pro-PTH-460-660-860-Cintiq-Pro-Mobile-Studio-Pro.jpg",
+        "https://example.com/images/wacom_intuos_2.jpg",
+        "https://example.com/images/wacom_intuos_3.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Filament ABS 1kg Bleu",
+      "brand": "GEEETECH",
+      "price": 27.99,
+      "reference": "GEEETECH-ABS-BLUE",
+      "category": "Filament 3D",
+      "discount": 0,
+      "images": [
+        "https://www.grossiste3d.com/9081-large_default/filament-3d-abs-1-kg-175-mm-bleu.jpg",
+        "https://example.com/images/geeetech_abs_blue_2.jpg",
+        "https://example.com/images/geeetech_abs_blue_3.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Résine UV 500ml Transparent",
+      "brand": "Anycubic",
+      "price": 19.99,
+      "reference": "ANYCUBIC-RES-TRANS",
+      "category": "Bouteille de Résine",
+      "discount": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/71b5i2qolIL.jpg",
+        "https://example.com/images/anycubic_resin_trans_2.jpg",
+        "https://example.com/images/anycubic_resin_trans_3.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Extrudeur Double Gear",
+      "brand": "Bondtech",
+      "price": 79.99,
+      "reference": "BONDTECH-DGEAR",
+      "category": "Pièces Détachées",
+      "discount": 15,
+      "images": [
+        "https://m.media-amazon.com/images/I/71RMLvMrl7L.jpg",
+        "https://example.com/images/bondtech_dgear_2.jpg",
+        "https://example.com/images/bondtech_dgear_3.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Nettoyant Plateau 3D",
+      "brand": "Magigoo",
+      "price": 14.99,
+      "reference": "MAGIGOO-PLATECLEAN",
+      "category": "Produits d'Entretien",
+      "discount": 5,
+      "images": [
+        "https://esun3d.fr/cdn/shop/products/Zimple-nettoyant-plateau-photoproduit.jpg?v=1710862179",
+        "https://example.com/images/magigoo_plateclean_2.jpg",
+        "https://example.com/images/magigoo_plateclean_3.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Couvercle de Protection",
+      "brand": "Creality",
+      "price": 24.99,
+      "reference": "CR-COVER-PROT",
+      "category": "Accessoires pour Imprimantes 3D",
+      "discount": 0,
+      "images": [
+        "https://www.cdiscount.com/pdt2/6/1/3/1/700x700/cre9581250945613/rw/creality-3d-couvercle-de-protection-du-boitier-de.jpg",
+        "https://example.com/images/creality_cover_prot_2.jpg",
+        "https://example.com/images/creality_cover_prot_3.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Imprimante 3D FlashForge Finder",
+      "brand": "FlashForge",
+      "price": 299.99,
+      "reference": "FLASHFORGE-FINDER",
+      "category": "Imprimante 3D",
+      "discount": 20,
+      "images": [
+        "https://enfss.flashforgeshop.com/10021/picture/2022/12/31b748cb67d5bd6ba356756e739fa8b7.jpg",
+        "https://example.com/images/flashforge_finder_2.jpg",
+        "https://example.com/images/flashforge_finder_3.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Imprimante Résine Creality LD-002R",
+      "brand": "Creality",
+      "price": 239.99,
+      "reference": "CR-LD-002R",
+      "category": "Imprimante Résine",
+      "discount": 10,
+      "images": [
+        "https://www.graph-image.fr/wp-content/uploads/2020/02/creality-ld-002r.png",
+        "https://example.com/images/creality_ld_002r_2.jpg",
+        "https://example.com/images/creality_ld_002r_3.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Stylo 3D CreoPop",
+      "brand": "CreoPop",
+      "price": 79.99,
+      "reference": "CREOPOP-3D",
+      "category": "Stylo 3D",
+      "discount": 5,
+      "images": [
+        "https://static.digitecgalaxus.ch/Files/3/1/0/6/5/6/8/8/CreoPop-Starter-Kit-N-003.xxl3.jpeg",
+        "https://example.com/images/creopop_3d_2.jpg",
+        "https://example.com/images/creopop_3d_3.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Filament PETG 1kg Noir",
+      "brand": "SUNLU",
+      "price": 29.99,
+      "reference": "SUNLU-PETG-BLACK",
+      "category": "Filament 3D",
+      "discount": 0,
+      "images": [
+        "https://www.polyfab3d.fr/4699-large_default/polylite-petg-noir-285mm-1-kg.jpg",
+        "https://example.com/images/sunlu_petg_black_2.jpg",
+        "https://example.com/images/sunlu_petg_black_3.jpg"
+      ]
+    }
+  ]
+  
